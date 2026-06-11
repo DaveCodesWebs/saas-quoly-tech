@@ -1,0 +1,25 @@
+# QuolyTech
+
+> Next-Gen AI Platform and Solutions for development and business optimization.
+
+## Core Services
+
+- AI Hub: Development ecosystem and resources.
+- AI Solutions: Automation, efficiency, and scalability tools.
+- Video Optimization: AI-powered video editing and enhancement.
+- Digital Marketing: AI-driven SEO and social media management.
+- Client Dashboard: Full website control without code.
+
+## Key Pages
+
+- [Home](https://quolytech.com/)
+- [Dashboard](https://quolytech.com/#dashboard)
+- [Services](https://quolytech.com/#features)
+- [Pricing](https://quolytech.com/#pricing)
+- [FAQ](https://quolytech.com/#faq)
+
+## Company
+
+- Founded: 2024
+- Location: Tirana, Albania
+- Contact: jari@quolytech.com
