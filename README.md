@@ -93,7 +93,7 @@ src/
 ```
 
 
-```md
+
 ## Getting Started
 
 ```bash
@@ -101,6 +101,7 @@ git clone https://github.com/DaveCodesWebs/saas-quoly-tech
 cd quolytech
 npm install
 npm run dev
+```
 
 The app will be available at `http://localhost:5173`.
 
@@ -109,4 +110,5 @@ The app will be available at `http://localhost:5173`.
 ```bash
 npm run build
 ```
+
 
